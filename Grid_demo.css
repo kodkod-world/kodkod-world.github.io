@@ -5,7 +5,7 @@ box-sizing: border-box;
 
 body{
     margin:0;
-    background-color: chartreuse;
+    background-color: rgb(232, 243, 221);
 }
 .container01 { 
 
@@ -15,21 +15,15 @@ padding: 0 5px;
 
 }
 
+
 h2{
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight: 400;
 
 }
 
-h1{
-font-family: Georgia, 'Times New Roman', Times, serif;
-font-style: normal;
-font-weight: 400;
-text-rendering: optimizeSpeed;
-text-justify: newspaper;
 
 
-}
 
 
 .column01{
@@ -100,11 +94,73 @@ width:50%;
     box-sizing: border-box;
 }
 
+.column01 h1.title{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 400;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+font-size: 80px;
+}
 
-.column01 img:hover {border-radius: 50%;}
-.column02 img:hover {border-radius: 50%;}
-.column03 img:hover {border-radius: 50%;}
-.column04 img:hover {border-radius: 50%;}
+.column02 h1.title{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 400;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+font-size: 80px;
+}
+
+
+
+.column01 h3.column_header{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 200;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+text-align: center;
+
+
+}
+
+
+.column02 h3.column_header{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 200;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+text-align: center;
+}
+
+.column03 h3.column_header{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 200;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+text-align: center;
+}
+
+.column04 h3.column_header{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: normal;
+font-weight: 200;
+text-rendering: optimizeSpeed;
+text-justify: newspaper;
+text-align: center;
+}
+
+.column01 img:hover {border-radius: 5%;}
+.column02 img:hover {border-radius: 5%;}
+.column03 img:hover {border-radius: 5%;}
+.column04 img:hover {border-radius: 5%;}
 
 h1:hover{color: darkmagenta;}
 
