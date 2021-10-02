@@ -33,28 +33,28 @@ text-justify: newspaper;
 
 
 .column01{
-flex:25% ; /* this column only takes 25% of the total flex box width*/
-max-width: 25%;  /* max width of the column*/
+flex:35% ; /* this column only takes 25% of the total flex box width*/
+max-width: 35%;  /* max width of the column*/
 padding: 0 5px;
 }
 
 .column02{
-flex:25% ; /* this column only takes 25% of the total flex box width*/
-max-width: 25%;  /* max width of the column*/
+flex:35% ; /* this column only takes 25% of the total flex box width*/
+max-width: 35%;  /* max width of the column*/
 padding: 0 5px; /* 0 for both vertical padding but 5 px for both horizontal padding(gaps)*/
 }
 
 
 .column03{
-flex:25% ; /* this column only takes 25% of the total flex box width*/
-max-width: 25%;  /* max width of the column*/
+flex:15% ; /* this column only takes 25% of the total flex box width*/
+max-width: 15%;  /* max width of the column*/
 padding: 0 5px; /* 0 for both vertical padding but 5 px for both horizontal padding(gaps)*/
 }
 
 
 .column04{
-flex:25% ; /* this column only takes 25% of the total flex box width*/
-max-width: 25%;  /* max width of the column*/
+flex:15% ; /* this column only takes 25% of the total flex box width*/
+max-width: 15%;  /* max width of the column*/
 padding: 0 5px; /* 0 for both vertical padding but 5 px for both horizontal padding(gaps)*/
 }
 
